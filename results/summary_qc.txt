@@ -1,0 +1,5 @@
+SEQUENCE QUALITY CHECK SUMMARY
+-------------------------------
+Sequence ID: sp|P04395|3MG2_ECOLI
+Sequence Length: 282 amino acids
+QC Decision: Sequence length is sufficient for downstream analysis.
